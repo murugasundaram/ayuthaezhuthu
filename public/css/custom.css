@@ -1,0 +1,46 @@
+.cursor {
+    cursor: pointer;
+}
+
+.marginl10 {
+    margin-left: 10px;
+}
+
+.marginl5    {
+    margin-left: 5px;
+}
+
+.marginr10 {
+    margin-right: 10px;
+}
+
+.padding0   {
+    padding: 0px;
+}
+
+.paddingt15 {
+    padding-top: 15px;
+}
+
+.error  {
+    color: #F1362F;
+}
+
+.show_value {
+    padding-top: 6px;
+}
+
+.comment-content    {
+    font-size: 15px;
+    padding: 5px;
+}
+
+.tenant-user-comment    {
+    font-size: 14px;
+}
+
+.comment-bg  {
+    padding: 4px;
+    margin: 0px;
+    display: inline;
+}
